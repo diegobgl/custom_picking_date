@@ -1,4 +1,3 @@
-
 {
     'name': 'Custom Picking Date',
     'version': '1.0',

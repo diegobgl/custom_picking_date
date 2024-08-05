@@ -1,4 +1,3 @@
-
 from odoo import models, fields
 
 class StockPicking(models.Model):

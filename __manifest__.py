@@ -6,8 +6,8 @@
     'description': """
         This module removes the readonly restriction on the date_done field in stock.picking model.
     """,
-    'author': 'Your Name',
-    'website': 'http://www.yourwebsite.com',
+    'author': 'I+D, Diego Gajardo, Camilo Neira, Diego Morales',
+    'website': 'https://www.holdconet.com',
     'depends': ['stock'],
     'data': [
         'views/stock_picking_views.xml',
